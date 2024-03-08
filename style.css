@@ -19,15 +19,6 @@ body {
     position: relative;
 }
 
-.main .box {
-    height: 644px;
-    width: 100%;
-    opacity: 0.69;
-    position: absolute;
-    top: 0;
-    background-color: black;
-}
-
 nav {
     max-width: 60vw;
     justify-content: space-between;
