@@ -11,19 +11,12 @@ body {
 }
 
 .main {
-    background-image: url("https://github.com/disha1920/Netflix_Clone/blob/main/assets/Images/bg.jpg?raw=true");
+    background-image: url(linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),"https://github.com/disha1920/Netflix_Clone/blob/main/assets/Images/bg.jpg?raw=true");
     background-position: center center;
     background-size: max(1200px, 100vw);
     background-repeat: no-repeat;
     height: 644px;
     position: relative;
-    content: '';
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    background-color: rgba(0, 0, 0, 0.5);
 }
 
 .main .box {
