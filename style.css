@@ -21,10 +21,7 @@ body {
     padding: 10px 8%;
     height: 644px;
     position: relative;
-    linear-gradient(
-      rgba(0, 0, 0, 0.5),
-      rgba(0, 0, 0, 0.5)
-    ),
+   
 }
 
 .main .box {
