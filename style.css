@@ -18,7 +18,7 @@ body {
     padding: 10px 8%;
     height: 644px;
     position: relative;
-    opacity: 0.79;
+    filter: brightness(30%); 
 }
 
 .main .box {
