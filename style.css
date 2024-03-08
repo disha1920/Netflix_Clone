@@ -13,13 +13,13 @@ body {
 
 .main {
     width: 100%;
-    height: 644px;
+    height: 100vh;
     background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("https://github.com/disha1920/Netflix_Clone/blob/main/assets/Images/bg.jpg?raw=true");
+    background-size: cover;
     background-position: center;
-    background-size:  cover;
     padding: 10px 8%;
     position: relative;
-    background-repeat: no-repeat;
+   
 }
 
 .main .box {
