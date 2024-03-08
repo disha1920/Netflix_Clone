@@ -33,7 +33,7 @@ body {
     background-color: black;
 }
 
-nav {
+.main nav {
     max-width: 60vw;
     justify-content: space-between;
     margin: auto;
@@ -42,14 +42,14 @@ nav {
     height: 100px;
 }
 
-nav img {
+.main nav img {
     color: red;
     width: 130px;
     position: relative;
     z-index: 10;
 }
 
-nav button {
+.main nav button {
     position: relative;
     z-index: 10;
 }
